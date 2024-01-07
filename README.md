@@ -1,1 +1,2 @@
-# Project1
+Solution:
+Yatra.com is your gateway to exploring the enchanting beauty of India's most popular tourist destinations. This dynamic travel site is your trusted companion in discovering the diverse cultural, historical, and natural treasures of this incredible country. Yatra.com offers comprehensive information and booking services for an array of thrilling adventures, from heart-pounding bungee jumping to exhilarating zip-lining and mesmerizing scuba diving. With Yatra.com, you can seamlessly plan your journey, making it easier to traverse the rich tapestry of India, ensuring memorable and adrenaline-pumping experiences at every turn. Explore, book, and embark on your unforgettable Indian adventure with Yatra.com# Project1
